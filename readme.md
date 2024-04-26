@@ -25,7 +25,7 @@ If you do not want to create a project in LangSmith and only want to use LangCha
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/DevBhut/Chat-with-PDF---Google-Gemini
 ```
 
 Go to the project directory
